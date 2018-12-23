@@ -1,0 +1,39 @@
+\begin{thebibliography}{5}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Chakrabarti et~al.(2010)Chakrabarti, Cormode, and
+  McGregor]{chakrabarti2010near}
+Amit Chakrabarti, Graham Cormode, and Andrew McGregor.
+\newblock A near-optimal algorithm for estimating the entropy of a stream.
+\newblock \emph{ACM Transactions on Algorithms (TALG)}, 6\penalty0
+  (3):\penalty0 51, 2010.
+
+\bibitem[Alon et~al.(1996)Alon, Matias, and
+  Szegedy]{Alon:1996:SCA:237814.237823}
+Noga Alon, Yossi Matias, and Mario Szegedy.
+\newblock The space complexity of approximating the frequency moments.
+\newblock In \emph{Proceedings of the Twenty-eighth Annual ACM Symposium on
+  Theory of Computing}, STOC '96, pages 20--29. ACM, 1996.
+
+\bibitem[Misra and Gries(1982)]{Misra:1982:FRE:867576}
+Jayadev Misra and David Gries.
+\newblock Finding repeated elements.
+\newblock Technical report, Ithaca, NY, USA, 1982.
+
+\bibitem[Bose et~al.(2003)Bose, Kranakis, Morin, and Tang]{Bose2003BoundsFF}
+Prosenjit Bose, Evangelos Kranakis, Pat Morin, and Yihui Tang.
+\newblock Bounds for frequency estimation of packet streams.
+\newblock In \emph{SIROCCO}, 2003.
+
+\bibitem[Vitter(1985)]{Vitter:1985:RSR:3147.3165}
+Jeffrey~S. Vitter.
+\newblock Random sampling with a reservoir.
+\newblock \emph{ACM Trans. Math. Softw.}, 11\penalty0 (1):\penalty0 37--57,
+  March 1985.
+\newblock ISSN 0098-3500.
+
+\end{thebibliography}
